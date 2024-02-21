@@ -15,10 +15,10 @@ Els objectius d'aquesta pràctica són els següents:
 
 Per a aquest exercici, tenim un fitxer de vocabulari (diccionari_BC_v2.txt) amb 100 paraules i un esquema de mots encreuats (crossword_BC_v2.txt). L'objectiu és aplicar l'algorisme de backtracking per assignar cada paraula al lloc corresponent del tauler.
 
-## Exercici 2: Crossword Puzzle (Forwardchecking) – 20% (B)
+## Exercici 2: Crossword Puzzle (Forwardchecking)
 
 En aquest segon exercici, hem de implementar el backtracking amb forwardchecking.
 
-## Exercici 3: Crossword Puzzle (Ampliació) – 20% (A)
+## Exercici 3: Crossword Puzzle (Ampliació)
 
 En aquest exercici, apliquem el mètode de forwardchecking amb un vocabulari i un tauler més grans.
